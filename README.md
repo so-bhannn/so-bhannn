@@ -1,5 +1,7 @@
-## 👋About me:
-  ### Backend developer with a passion for building scalable and robust applications using Django.
+# 👋About me:
+  
+   🌱 Backend developer with a passion for building scalable and robust applications using Django.
+   
 ---
 ## 💻Tools And Tech:
 <div>
